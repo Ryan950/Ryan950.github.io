@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name - Writer & Gamer</title>
+  <style>
+    body {
+      background-color: #333;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    header {
+      text-align: center;
+      padding: 20px;
+    }
+
+    section {
+      margin-top: 20px;
+    }
+
+    h2 {
+      color: #66c2ff;
+    }
+
+    p {
+      line-height: 1.5;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Your Name</h1>
+    <p>Writer & Gamer</p>
+  </header>
+
+  <section>
+    <h2>Bio</h2>
+    <p>Writer and gamer passionate about crafting engaging stories. Let my words take you on unique journeys through the realms of imagination.</p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <p>Proficient in writing, with a focus on gaming and AI-related content.</p>
+  </section>
+
+  <section>
+    <h2>Mini Stories</h2>
+    <!-- Add your mini stories here -->
+  </section>
+
+  <footer>
+    <p>Contact: your@email.com</p>
+  </footer>
+
+</body>
+</html>
